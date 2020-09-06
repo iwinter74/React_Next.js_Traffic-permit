@@ -25,6 +25,7 @@ const Mycarousel = () => {
 <Carousel
   responsive={responsive}
   infinite={true}
+  showDots={true}
 >
       <div> Yes, you will need to have the land owner sign the permit application as the Permittee, and you sign the permit as the Applicant or Agent for the Permittee.
              <img src="/isak.png" alt=""/>
